@@ -1,0 +1,24 @@
+# Visual Studio settings
+.vs/
+*.suo
+*.user
+*.VC.db
+*.ncb
+*.sdf
+*.cache
+*.log
+
+# Build results
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Index/cache files
+*.vsidx
+*.ipch/
+
+# Fortran modules and other intermediates
+*.mod
+*.o
+*.out
