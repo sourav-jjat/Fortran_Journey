@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36109.1 d17.14
+VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "FirstFortran", "FirstFortran\FirstFortran.vfproj", "{9B1524CC-C4A4-F9C0-9CCA-4C7BC038D26F}"
+EndProject
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "03_Arrays", "03_Arrays\03_Arrays.vfproj", "{97B7938D-E83F-209A-8EE3-5F120E8A807D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{9B1524CC-C4A4-F9C0-9CCA-4C7BC038D26F}.Release|x64.Build.0 = Release|x64
 		{9B1524CC-C4A4-F9C0-9CCA-4C7BC038D26F}.Release|x86.ActiveCfg = Release|Win32
 		{9B1524CC-C4A4-F9C0-9CCA-4C7BC038D26F}.Release|x86.Build.0 = Release|Win32
+		{97B7938D-E83F-209A-8EE3-5F120E8A807D}.Debug|x64.ActiveCfg = Debug|x64
+		{97B7938D-E83F-209A-8EE3-5F120E8A807D}.Debug|x64.Build.0 = Debug|x64
+		{97B7938D-E83F-209A-8EE3-5F120E8A807D}.Debug|x86.ActiveCfg = Debug|Win32
+		{97B7938D-E83F-209A-8EE3-5F120E8A807D}.Debug|x86.Build.0 = Debug|Win32
+		{97B7938D-E83F-209A-8EE3-5F120E8A807D}.Release|x64.ActiveCfg = Release|x64
+		{97B7938D-E83F-209A-8EE3-5F120E8A807D}.Release|x64.Build.0 = Release|x64
+		{97B7938D-E83F-209A-8EE3-5F120E8A807D}.Release|x86.ActiveCfg = Release|Win32
+		{97B7938D-E83F-209A-8EE3-5F120E8A807D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
